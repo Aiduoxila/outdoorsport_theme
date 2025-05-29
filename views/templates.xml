@@ -1,0 +1,8 @@
+<!-- Templates for Outdoorsport Theme -->
+<odoo>
+    <template id="layout" name="Outdoorsport Layout">
+        <div id="sport-banner" class="banner">
+            <!-- Banner content goes here -->
+        </div>
+    </template>
+</odoo>

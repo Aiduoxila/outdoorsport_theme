@@ -1,0 +1,12 @@
+// Custom styles for Outdoorsport theme
+$primary-color: #FF4500;
+$background-color: #F4F4F4;
+
+body {
+    background-color: $background-color;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: $primary-color;
+}

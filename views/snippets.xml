@@ -1,0 +1,11 @@
+<!-- Snippets for Outdoorsport Theme -->
+<odoo>
+    <template id="snippet_banner" name="Banner Snippet">
+        <section class="s_banner">
+            <div class="container">
+                <h1>Adventure Awaits</h1>
+                <p>Explore the great outdoors with our bold new theme.</p>
+            </div>
+        </section>
+    </template>
+</odoo>
